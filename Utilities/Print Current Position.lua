@@ -1,4 +1,4 @@
-local type = true -- set to false to use clipboard instead
+local type = true
 local p = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
 
 if type then
