@@ -1,4 +1,4 @@
-local type = false
+local type = true
 local p = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
 
 if type then
