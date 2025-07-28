@@ -1,6 +1,5 @@
 --[[ 
-This Spy is in v1 and should not be tampered with
-Execute at your own risk!
+Working on a rewirte so let me cook
 ]]--
 --[[ In monochrome we trust ]]--
 loadstring(game:HttpGet("https://scriptorium.wtf/r/whoiscookie"))()
